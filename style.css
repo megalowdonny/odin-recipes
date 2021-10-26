@@ -1,0 +1,35 @@
+* {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  font-size: 48px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  padding-top: 20px;
+}
+.salsa {
+  color: red;
+}
+
+.shake {
+  color: green;
+}
+
+.steak {
+  color: brown;
+}
