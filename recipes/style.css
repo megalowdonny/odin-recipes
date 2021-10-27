@@ -1,0 +1,57 @@
+* {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+ul, ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+img {
+  border: outset black;
+}
+
+.salsa{
+  background-color: #f4b2b2;
+}
+
+.shake {
+  background-color: #b2f4be;
+}
+
+.steak {
+  background-color: #f4d5b2; 
+}
+
+.container {
+  display: block;
+  margin: auto;
+  position: relative;
+  width: 50%;
+}
+
+.intro {
+  
+}
+
+.description {
+  
+}
